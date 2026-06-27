@@ -140,4 +140,4 @@ app.listen(3000, () => {
    LOGIN
 ========================= */
 
-client.login(MTUyMDM5NTMwMjg0NTAyNjQzNg.GLgVQO.hHtEQPWbFvJIbQNT6_Ec8jGiPMt5bnvILSxzgM);
+client.login(DISCORD_TOKEN);
